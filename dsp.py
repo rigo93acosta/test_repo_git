@@ -7,7 +7,7 @@ def filtro():
     ...
 
 def adc():
-    ...
+    print("Add ADC")
 
 def mixer():
     print('la fuanfana')
