@@ -5,3 +5,6 @@ def dsp():
 
 def filtro():
     ...
+
+def adc():
+    ...
