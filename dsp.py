@@ -8,3 +8,6 @@ def filtro():
 
 def adc():
     ...
+
+def mixer():
+    ...
